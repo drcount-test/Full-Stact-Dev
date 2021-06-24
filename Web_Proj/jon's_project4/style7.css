@@ -1,0 +1,36 @@
+/*
+h1{
+    color: #ffffff;
+    text-shadow: 2px 2px 5px black;
+}
+
+h2{
+    color: rgb(0, 204, 255);
+    text-shadow: 1px 1px 3px darkblue;
+}
+*/
+
+.borderImg{
+    border: 10px dashed red;
+}
+
+ul li{
+    color: green;
+    font-size: 20px;
+}
+
+ul > li{
+    color: blue;
+}
+
+div h1{
+    color: green;
+}
+
+h1, h2, h3 /*.class, #id*/{
+    color: #ffffff;
+    text-shadow: 2px 2px 5px black;
+    line-height: 1rem;
+    font-family: sans-serif;
+}
+

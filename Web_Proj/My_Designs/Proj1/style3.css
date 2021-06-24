@@ -1,0 +1,28 @@
+#container1{
+    border: solid 1px coral;
+    text-align: center;
+    /*background-color: coral;*/
+    box-shadow: 3px 2px 3px black;
+    background: linear-gradient(to right,#ee0979, #ff6a00);
+}
+
+a{
+    text-decoration: none;
+}
+
+
+#div-cont1{
+    color:rgb(0, 204, 255);
+    text-shadow: 2px 2px 3px black;
+}
+
+
+#div-cont2{
+    color: aliceblue;
+    text-shadow: 2px 2px 3px black;
+}
+
+hr{
+    padding-top: 1px;
+}
+

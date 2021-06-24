@@ -1,0 +1,28 @@
+body{
+    background-color: #cc99ff;
+}
+
+h1{
+    color: red;
+    text-align: center;  /*To align text in center*/
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: auto;  /*To align shape in center*/
+}
+
+#circle{
+    color: darkred;
+    font-size: 40px;
+    text-align: center;  /*To align text in center*/
+}
+
+#new{
+    width: 50px;
+    height: 50px;
+    background-color: aquamarine;
+    margin: auto;  /*To align shape in center*/
+}
